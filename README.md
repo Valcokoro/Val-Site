@@ -1,4 +1,4 @@
-# val
+# val's site
 
 
-A site showing Val's Resume
+A site showing Valentine Chukwuemeka Okoro's Resume
